@@ -6,6 +6,8 @@
 
 使用 jd-gui.exe 反编译查看，直接搜索 License
 
+![img](README.assets/clipboard-1600492612178.png)
+
 分析代码，有三处代码需要修改
 
 1.修改：
