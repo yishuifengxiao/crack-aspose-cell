@@ -1,3 +1,4 @@
+来源于[evilrule](https://gitee.com/evilrule/crack-aspose) 的学习材料
 # aspose-cells-20.7.jar 破解
 
 ## 仅供学习，不可用于商业用途
